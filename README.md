@@ -9,5 +9,3 @@ I’m Zohaib, an Engineering Honors student at UT Austin, passionate about softw
 Let’s connect!  
 [LinkedIn](https://www.linkedin.com/in/zohaibsheikh642/)
 zohaibsheikh6422@gmail.com
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zohaib642&layout=compact)
