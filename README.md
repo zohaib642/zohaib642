@@ -10,4 +10,4 @@ Let’s connect!
 [LinkedIn](https://www.linkedin.com/in/zohaibsheikh642/)
 zohaibsheikh6422@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zohaib642&layout=compact)
