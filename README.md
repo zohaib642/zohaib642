@@ -8,3 +8,4 @@ I’m Zohaib, an Engineering Honors student at UT Austin, passionate about softw
 
 Let’s connect!  
 [LinkedIn](https://www.linkedin.com/in/zohaibsheikh642/)
+zohaibsheikh6422@gmail.com
