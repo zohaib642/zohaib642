@@ -1,7 +1,6 @@
 ### Hello!
 
-I’m Zohaib, an Engineering Honors student at UT Austin, passionate about computer architecture, embedded engineering, machine learning, and more!
-
+I’m Zohaib, an Engineering Honors student at UT Austin, passionate about computer architecture and embedded engineering.
 - 💻 Currently working on: Research at Texas A&M University, Longhorn Racing Electric (Formula SAE), and Stealth Startup.
 - 📖 Learning: Electrical and Computer Engineering, circuits, computing.
 - ☕ Always up for new projects and meeting new people!
